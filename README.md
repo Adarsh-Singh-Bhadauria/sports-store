@@ -1,70 +1,57 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sports Store Website
 
-## Available Scripts
+## Introduction
 
-In the project directory, you can run:
+Welcome to Sports Store Website! This project is built using HTML, Tailwind, JavaScript and React (JavaScript library for building user interfaces). This is just a styled responsive project which can be run on any screen size device effectively.
 
-### `npm start`
+Project hosted on -  https://adarsh-singh-bhadauria.github.io/sports-store/ 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+P.S - This project is just a mockup of a website in different design with no fuctionalities.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+● Selling items shown in this website can be sorted according to their type (Football, Accessories, Clothing, Shoes).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+● Components of this website are adjustible according to the screen or project is responsive.  
 
-### `npm run build`
+● We can also sort items according to their price.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run this project locally, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+● Clone the repository: git clone https://github.com/Adarsh-Singh-Bhadauria/sports-store.git
 
-### `npm run eject`
+● Navigate to the project directory: cd react-project-name
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+● Install the dependencies: npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+● Start the development server: npm start
+Open your browser and visit http://localhost:3000 to view the app.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
-## Learn More
+● Fork the repository.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+● Create a new branch: git checkout -b feature/your-feature-name
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+● Commit your changes: git commit -m "Add your commit message"
 
-### Code Splitting
+● Push to the branch: git push origin feature/your-feature-name
+Open a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Issue report template
 
-### Analyzing the Bundle Size
+#### Before submitting a issue report determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+● A descriptive title.
 
-### Making a Progressive Web App
+● An isolated way to reproduce the behavior (example: GitHub repository with code isolated to the issue that anyone can clone to observe the problem).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+● What platform(s) you're running it on.
 
-### Advanced Configuration
+● The behavior you expect to see, and the actual behavior.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
